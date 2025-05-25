@@ -22,10 +22,9 @@
 ## Pharos Incentive Testnet
 #New
 
-Pharos TESTNET OZONE
-
+Pharos Testnet
+Funding : 8M
 Reward : Potential
-
 Network : Pharos Testnet
 
 Link:
