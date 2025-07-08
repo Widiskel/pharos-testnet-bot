@@ -42,7 +42,7 @@ Link:
 - Proxy Support
 - Daily Transfer (SELF / FRIENDS)
 - Daily Chek In
-- Daily Swap (WRAP / UNWRAP)
+- Daily Swap
 
 
 ## Setup & Configure BOT
@@ -118,12 +118,12 @@ To update bot follow this step :
 2. start the bot
 
 ## NOTE
+
 DWYOR & Always use a new wallet when running the bot, I am not responsible for any loss of assets.
 
-You need to use proxy with rotating feature (Residential) so the IP will change every specific minutes, otherwise you will got 429 - To Many Request Error
+If you got 429 Error, You need to use proxy with rotating feature (Residential) so the IP will change every specific minutes, otherwise you will got 429 - To Many Request Error
 - [proxyscrappe](https://proxyscrape.com/?ref=yzi1n2y)
 - [dataimpulse](https://dataimpulse.com/?aff=66393)
-
 
 
 ## CONTRIBUTE
