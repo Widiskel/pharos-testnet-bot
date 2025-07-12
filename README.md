@@ -29,6 +29,8 @@ Network : Pharos Testnet
 
 Link:
 [https://testnet.pharosnetwork.xyz/experience](https://testnet.pharosnetwork.xyz/experience?inviteCode=FfVKUs0KaN1WZUOo)
+
+
 - Connect Wallet  (New / BURNER)
 - Complete Social Task
 - Daily Check In
@@ -43,6 +45,7 @@ Link:
 - Daily Transfer (SELF / FRIENDS)
 - Daily Chek In
 - Daily Swap
+- Daily Add Liquidity
 
 
 ## Setup & Configure BOT
