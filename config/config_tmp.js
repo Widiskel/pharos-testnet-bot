@@ -21,4 +21,8 @@ export const Config = {
   //SWAP TOKEN
   USESWAP: true,
   SWAPCOUNT: 10,
+
+  //ADD LIQUIDITY
+  USEADDLIQUIDITY: true,
+  ADDLIQUIDITYCOUNT: 30,
 };
