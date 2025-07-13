@@ -53,8 +53,8 @@ Link:
 ### Linux
 1. clone project repo
    ```
-   git clone https://github.com/Widiskel/pharos-testnet-bot-js.git 
-   cd pharos-testnet-bot-js
+   git clone https://github.com/Widiskel/pharos-testnet-bot.git 
+   cd pharos-testnet-bot
    ```
 2. run
    ```
@@ -79,11 +79,11 @@ Link:
 1. Open your `Command Prompt` or `Power Shell`.
 2. Clone project repo
    ```
-   git clone https://github.com/Widiskel/pharos-testnet-bot-js.git
+   git clone https://github.com/Widiskel/pharos-testnet-bot.git
    ```
    and cd to project dir
    ```
-   cd pharos-testnet-bot-js
+   cd pharos-testnet-bot
    ```
 3. Run 
    ```
