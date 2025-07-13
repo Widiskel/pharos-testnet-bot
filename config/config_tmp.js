@@ -1,7 +1,7 @@
 export const Config = {
   //DELAY WILL BE RANDOMIZE BETWEEN MIN AND MAX
   DELAYMININMINUTES: 60,
-  DELAYMAXINMINUTES: 120, 
+  DELAYMAXINMINUTES: 120,
 
   //TRANSACTION AMOUNT WILL BE RANDOMIZE BETWEEN MIN AND MAX
   TXAMOUNTMIN: 0.0000001,
@@ -12,10 +12,10 @@ export const Config = {
   SELFTRANSFERCOUNT: 99,
 
   //TRANSFER TO ALL ADDRESS ON THIS LIST
-  USEFRIENDTRANSFER: true,
+  USEFRIENDTRANSFER: false,
   FRIENDTRANSFERLIST: [
-    "0x3fe6A02AB20dE8bf34fEFc106D72D7094C8C4404",
-    "0x94C442D21bA584C0562Ab5CAcc8Efd633eC89470",
+    // "0x3fe6A02AB20dE8bf34fEFc106D72D7094C8C4404",
+    // "0x94C442D21bA584C0562Ab5CAcc8Efd633eC89470",
   ],
 
   //SWAP TOKEN
@@ -27,5 +27,5 @@ export const Config = {
   ADDLIQUIDITYCOUNT: 99,
 
   //NOTE : Every count is daily based
-  //so when you already reach the count, bot will run on continues cooldown until next day and daily count reset. 
+  //so when you already reach the count, bot will run on continues cooldown until next day and daily count reset.
 };
