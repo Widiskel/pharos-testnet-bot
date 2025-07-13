@@ -1,7 +1,7 @@
 export const Config = {
   //DELAY WILL BE RANDOMIZE BETWEEN MIN AND MAX
-  DELAYMININMINUTES: 700,
-  DELAYMAXINMINUTES: 1440, //1day
+  DELAYMININMINUTES: 60,
+  DELAYMAXINMINUTES: 120, 
 
   //TRANSACTION AMOUNT WILL BE RANDOMIZE BETWEEN MIN AND MAX
   TXAMOUNTMIN: 0.0000001,
@@ -25,4 +25,7 @@ export const Config = {
   //ADD LIQUIDITY
   USEADDLIQUIDITY: true,
   ADDLIQUIDITYCOUNT: 99,
+
+  //NOTE : Every count is daily based
+  //so when you already reach the count, bot will run on continues cooldown until next day and daily count reset. 
 };
