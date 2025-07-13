@@ -9,6 +9,7 @@
     "setup": "node setup.js",
     "dev": "node index.js",
     "test": "node test.js",
+    "prebuild": "find . -name '._*' -type f -delete",
     "build": "rm -rf app && javascript-obfuscator --config build-config.json"
   },
   "keywords": [
