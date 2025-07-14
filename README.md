@@ -1,6 +1,7 @@
 # Pharos Testnet BOT
 
 ## Table Of Contents
+
 - [Pharos Testnet BOT](#pharos-testnet-bot)
   - [Table Of Contents](#table-of-contents)
   - [Prerequisite](#prerequisite)
@@ -16,10 +17,12 @@
   - [SUPPORT](#support)
 
 ## Prerequisite
+
 - Git
 - Node JS
 
 ## Pharos Incentive Testnet
+
 #New
 
 Pharos Testnet
@@ -30,8 +33,7 @@ Network : Pharos Testnet
 Link:
 [https://testnet.pharosnetwork.xyz/experience](https://testnet.pharosnetwork.xyz/experience?inviteCode=FfVKUs0KaN1WZUOo)
 
-
-- Connect Wallet  (New / BURNER)
+- Connect Wallet (New / BURNER)
 - Complete Social Task
 - Daily Check In
 - Do Onchain Task
@@ -39,21 +41,21 @@ Link:
 
 ## BOT FEATURE
 
-- Multi Account 
+- Multi Account
 - Support PK and Seed
 - Proxy Support
 - Daily Transfer (SELF / FRIENDS)
 - Daily Chek In
-- Daily Swap
+- Daily Swap (Zenithswap & Faroswap)
 - Daily Add Liquidity
-
 
 ## Setup & Configure BOT
 
 ### Linux
+
 1. clone project repo
    ```
-   git clone https://github.com/Widiskel/pharos-testnet-bot.git 
+   git clone https://github.com/Widiskel/pharos-testnet-bot.git
    cd pharos-testnet-bot
    ```
 2. run
@@ -74,8 +76,9 @@ Link:
    ```
    npm run start
    ```
-   
+
 ### Windows
+
 1. Open your `Command Prompt` or `Power Shell`.
 2. Clone project repo
    ```
@@ -85,23 +88,24 @@ Link:
    ```
    cd pharos-testnet-bot
    ```
-3. Run 
+3. Run
    ```
    npm install
    npm run setup
    ```
-5. Navigate to `pharos-testnet-bot-js` directory. 
-6. Navigate to `accounts` and configure `accounts.js`.
-7. Back to `pharos-testnet-bot-js` directory. 
-8. Navigate to `config` and configure `config.js` and `proxy_list.js` if you use proxy.
-9. To start the app open your `Command Prompt` or `Power Shell` again and run
-    ```
-    npm run start
-    ```
+4. Navigate to `pharos-testnet-bot-js` directory.
+5. Navigate to `accounts` and configure `accounts.js`.
+6. Back to `pharos-testnet-bot-js` directory.
+7. Navigate to `config` and configure `config.js` and `proxy_list.js` if you use proxy.
+8. To start the app open your `Command Prompt` or `Power Shell` again and run
+   ```
+   npm run start
+   ```
 
 ## Update Bot
 
 To update bot follow this step :
+
 1. run
    ```
    git pull
@@ -118,16 +122,16 @@ To update bot follow this step :
    ```
    npm update
    ```
-2. start the bot
+3. start the bot
 
 ## NOTE
 
 DWYOR & Always use a new wallet when running the bot, I am not responsible for any loss of assets.
 
 If you got 429 Error, You need to use proxy with rotating feature (Residential) so the IP will change every specific minutes, otherwise you will got 429 - To Many Request Error
+
 - [proxyscrappe](https://proxyscrape.com/?ref=yzi1n2y)
 - [dataimpulse](https://dataimpulse.com/?aff=66393)
-
 
 ## CONTRIBUTE
 
@@ -135,7 +139,7 @@ Feel free to fork and contribute adding more feature thanks. To get original une
 
 ## WHY THE CODE ENCRYPTED
 
-The code encrypted to avoid someone who steal or remake and use tho bot for commercial use like selling bot service, etc. Even if it encrypted it actualy easy to decrypt, i just want to give them some effort to steal it. 
+The code encrypted to avoid someone who steal or remake and use tho bot for commercial use like selling bot service, etc. Even if it encrypted it actualy easy to decrypt, i just want to give them some effort to steal it.
 
 I hope everyone who steal or remake this bot give a credits for me, how ? just fork or include my github profile url on your bot. Thanks
 
