@@ -47,7 +47,7 @@ Link:
 - Daily Transfer (SELF / FRIENDS)
 - Daily Chek In
 - Daily Swap (Zenithswap & Faroswap)
-- Daily Add Liquidity
+- Daily Add Liquidity (Zenithswap & Faroswap)
 
 ## Setup & Configure BOT
 
