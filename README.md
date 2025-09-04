@@ -7,6 +7,8 @@
   - [Prerequisite](#prerequisite)
   - [Pharos Incentive Testnet](#pharos-incentive-testnet)
   - [BOT FEATURE](#bot-feature)
+    - [S1](#s1)
+    - [S2](#s2)
   - [Setup \& Configure BOT](#setup--configure-bot)
     - [Linux](#linux)
     - [Windows](#windows)
@@ -44,10 +46,15 @@ Link:
 - Multi Account
 - Support PK and Seed
 - Proxy Support
+  
+### S1
 - Daily Transfer (SELF / FRIENDS)
 - Daily Chek In
 - Daily Swap (Zenithswap & Faroswap)
 - Daily Add Liquidity (Zenithswap & Faroswap)
+### S2
+- Daily Transfer (PRIMUS)
+- Daily CRAFT (AQUAFLUX | RWAFI)
 
 ## Setup & Configure BOT
 
