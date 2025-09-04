@@ -39,8 +39,12 @@ export const Config = {
   ],
 
   //AQUAFLUX CRAFTING
-  USEAQUAFLUXCRAFT: true,
+  USEAQUAFLUXCRAFT: fa,
   AQUAFLUXCRAFTCOUNT: 10,
+
+  //OPENFI SUPPLY AND BORROW
+  USEOPENFI: true,
+  OPENFISUPPLYCOUNT: 30,
 
   //NOTE : Every count is daily based
   //so when you already reach the count, bot will run on continues cooldown until next day and daily count reset.
