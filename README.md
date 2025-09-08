@@ -62,6 +62,7 @@ Link:
 - Daily Lend & Borrow (OPENFI)
 - Daily SWAP (R2)
 - Daily EARN (R2)
+- Daily Trade (Bitverse)
 
 ## Setup & Configure BOT
 
