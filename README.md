@@ -136,7 +136,8 @@ To update bot follow this step :
    ```
    npm update
    ```
-3. start the bot
+3. Resetup the config , copy all content on `config/config_tmp.js` to `config/config.js` and adjust it 
+4. start the bot
 
 ## NOTE
 
