@@ -47,6 +47,11 @@ export const Config = {
   USEAUTOSTAKING: true,
   AUTOSTAKINGCOUNT: 10,
 
+  //R2 SWAP
+  USER2SWAP: true,
+  R2SWAPCOUNT: 10,
+  R2EARNCOUNT: 10,
+
   //NOTE : Every count is daily based
   //so when you already reach the count, bot will run on continues cooldown until next day and daily count reset.
 };
