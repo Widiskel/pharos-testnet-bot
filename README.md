@@ -159,7 +159,8 @@ The code encrypted to avoid someone who steal or remake and use tho bot for comm
 
 I hope everyone who steal or remake this bot give a credits for me, how ? just fork or include my github profile url on your bot. Thanks
 
-The unencrypted code will be pushed to git after the event is over.
+**The unencrypted code will be pushed to git after the event is over or when the repository got 50 STARS.**
+
 
 ## SUPPORT
 
