@@ -60,6 +60,8 @@ Link:
 - Daily CRAFT (AQUAFLUX)
 - Daily Stake (AUTO STAKING)
 - Daily Lend & Borrow (OPENFI)
+- Daily SWAP (R2)
+- Daily EARN (R2)
 
 ## Setup & Configure BOT
 
