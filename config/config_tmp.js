@@ -41,20 +41,24 @@ export const Config = {
 
   //OPENFI SUPPLY AND BORROW
   USEOPENFI: true,
-  OPENFISUPPLYCOUNT: 10,
+  OPENFISUPPLYCOUNT: 20,
 
   //OPENFI SUPPLY AND BORROW
   USEAUTOSTAKING: true,
-  AUTOSTAKINGCOUNT: 10,
+  AUTOSTAKINGCOUNT: 20,
 
   //R2 SWAP (REQUIRE FAUCET FROM R2 DISCORD)
   USER2SWAP: true,
-  R2SWAPCOUNT: 10,
-  R2EARNCOUNT: 10,
+  R2SWAPCOUNT: 20,
+  R2EARNCOUNT: 20,
 
   //BITVERSE TRADE
   USEBITVERSE: true,
-  BITVERSETRADECOUNT: 10,
+  BITVERSETRADECOUNT: 20,
+
+  //BROXEX TRADE
+  USEBROXEX: true,
+  BROXEXTRADECOUNT: 20,
 
   //NOTE : Every count is daily based
   //so when you already reach the count, bot will run on continues cooldown until next day and daily count reset.

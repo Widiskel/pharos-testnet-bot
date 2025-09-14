@@ -63,6 +63,7 @@ Link:
 - Daily SWAP (R2)
 - Daily EARN (R2)
 - Daily Trade (Bitverse)
+- Daily Trade (Broxex)
 
 ## Setup & Configure BOT
 
