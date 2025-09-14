@@ -13,6 +13,7 @@
   - [Setup \& Configure BOT](#setup--configure-bot)
     - [Linux](#linux)
     - [Windows](#windows)
+  - [Auto Run When Stopped](#auto-run-when-stopped)
   - [Update Bot](#update-bot)
   - [NOTE](#note)
   - [CONTRIBUTE](#contribute)
@@ -116,6 +117,16 @@ Link:
 8. To start the app open your `Command Prompt` or `Power Shell` again and run
    ```
    npm run start
+   ```
+
+## Auto Run When Stopped
+1. Run
+   ```
+   chmod +x run.sh
+   ```
+2. Execute
+   ```
+   ./run.sh
    ```
 
 ## Update Bot
