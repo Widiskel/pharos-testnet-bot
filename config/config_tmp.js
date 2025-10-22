@@ -41,25 +41,36 @@ export const Config = {
 
   //OPENFI SUPPLY AND BORROW
   USEOPENFI: true,
-  OPENFISUPPLYCOUNT: 20,
+  OPENFISUPPLYCOUNT: 10,
 
   //OPENFI SUPPLY AND BORROW
   USEAUTOSTAKING: true,
-  AUTOSTAKINGCOUNT: 20,
+  AUTOSTAKINGCOUNT: 10,
 
   //R2 SWAP (REQUIRE FAUCET FROM R2 DISCORD)
   USER2SWAP: true,
-  R2SWAPCOUNT: 20,
-  R2EARNCOUNT: 20,
+  R2SWAPCOUNT: 10,
+  R2EARNCOUNT: 10,
 
   //BITVERSE TRADE
   USEBITVERSE: true,
-  BITVERSETRADECOUNT: 20,
+  BITVERSETRADECOUNT: 10,
 
   //BROXEX TRADE
   USEBROXEX: true,
-  BROXEXTRADECOUNT: 20,
+  BROXEXTRADECOUNT: 10,
 
+  // ================
+  // Atlantic
+  // ================
+
+  //ATLANTIC SELF TRANSFER
+  USEATLANTICTRANSFER: true,
+  ATLANTICTRANSFERCOUNT: 91,
+
+  // Atlantic Assetto
+  USEASSETTO: true,
+  ASSETTOCOUNT: 10,
   //NOTE : Every count is daily based
   //so when you already reach the count, bot will run on continues cooldown until next day and daily count reset.
 };

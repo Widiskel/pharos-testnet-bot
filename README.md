@@ -10,6 +10,7 @@
     - [BASE FEATURE](#base-feature)
     - [S1](#s1)
     - [S2](#s2)
+    - [Atlantic](#atlantic)
   - [Setup \& Configure BOT](#setup--configure-bot)
     - [Linux](#linux)
     - [Windows](#windows)
@@ -53,11 +54,11 @@ Link:
 - Daily Chek In
   
 ### S1
-- Daily Transfer (SELF / FRIENDS)
+- AUTO Transfer (SELF / FRIENDS) (MAX 91)
 - Daily Swap (ZENITH & FARO)
 - Daily Add Liquidity (ZENITH & FARO)
 ### S2
-- Daily Transfer (PRIMUS)
+- AUTO Transfer (PRIMUS) (MAX 91)
 - Daily CRAFT (AQUAFLUX)
 - Daily Stake (AUTO STAKING)
 - Daily Lend & Borrow (OPENFI)
@@ -65,6 +66,9 @@ Link:
 - Daily EARN (R2)
 - Daily Trade (Bitverse)
 - Daily Trade (Broxex)
+### Atlantic
+- AUTO Transfer Atlantic (MAX 91)
+- Daily Subscribe (Asetto)
 
 ## Setup & Configure BOT
 
